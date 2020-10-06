@@ -1,4 +1,3 @@
-[9:03 am, 06/10/2020] B13 Jayantha: #insert the node at desired  position of the list
 class Node:
     def _init_(self, dataval=None):
         self.dataval = dataval
